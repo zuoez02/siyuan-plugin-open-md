@@ -2,7 +2,7 @@
     "name": "siyuan-plugin-open-md",
     "author": "zuoez02",
     "url": "https://github.com/zuoez02/siyuan-plugin-open-md",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": {
         "default": "Open Markdown File",
         "zh_CN": "Open Markdown File"

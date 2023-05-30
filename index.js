@@ -43,7 +43,7 @@ module.exports = class OpenMd extends Plugin {
                             init() {
                                 this.element.innerHTML = `
                 <div class="protyle fn__flex-1">
-                    <div class="protyle-content">
+                    <div class="protyle-content" style="user-select: text">
                         <div class="protyle-wysiwyg protyle-wysiwyg--attr">
                         <div style="margin:20px 0">
                         <select id="selectNoteBook">
